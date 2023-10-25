@@ -9,6 +9,7 @@
     "react-twitter-embed": "^4.0.4"
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "sass": "^1.69.3"
   }
 }
